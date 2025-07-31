@@ -1,0 +1,10 @@
+lpips==0.1.4
+matplotlib==3.8.0
+numpy==2.3.2
+Pillow==11.3.0
+scikit_learn==1.2.2
+skimage==0.0
+torch==2.6.0
+torchvision==0.21.0
+tqdm==4.65.0
+transformers==4.50.2
